@@ -1,6 +1,6 @@
 ---
-title: "Assignment_1"
-author: "Shruti Palamadai 19200851"
+title: "Assignment"
+author: "Shruti Palamadai"
 date: "10/10/2019"
 output: html_document
 ---
